@@ -42,7 +42,7 @@ python-nomad==2.1.0
 pytz==2025.2
 pyyaml==6.0.2
 referencing==0.36.2
-requests==2.32.3
+requests==2.33.0
 rpds-py==0.25.1
 s3fs==2025.5.1
 s3transfer==0.13.0
